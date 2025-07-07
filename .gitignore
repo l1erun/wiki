@@ -1,0 +1,25 @@
+# to exclude Obsidian workspace settings (including plugin and hotkey configurations)
+Wiki/.obsidian/*
+.obsidian/*
+
+# OR only to exclude workspace cache
+Wiki/.obsidian/workspace/*
+.obsidian/workspace/*
+
+# Exclude plugins
+Wiki/.obsidian/plugins/*
+.obsidian/plugins/*
+
+# This file is used to keep track of last auto backup/pull
+Wiki/.obsidian-git-data
+.obsidian-git-data
+
+# Exclude Untitled Notes
+Untitled*
+# Exclude "bad" names
+null*
+
+# Add below lines to exclude OS settings and caches
+/Wiki/.trash/
+/Wiki/.DS_Store
+/.trash
